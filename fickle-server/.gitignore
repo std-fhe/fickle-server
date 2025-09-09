@@ -1,0 +1,5 @@
+fickle-server
+
+# Testscript output directory (can be symlink).
+#
+test-fickle-server
